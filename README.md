@@ -1,5 +1,7 @@
 # SpaConf - Conditionals to Polymorphism Workshop
 
+Note: my workshop version of https://github.com/skmetz/spaconf_2014.git.
+
 ## Dependencies
 
 You will need:
